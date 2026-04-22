@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>板块热点智能分析平台</title>
+    <style>
+      [class*="kimi"],
+      [id*="kimi"],
+      [class*="agent-badge"],
+      [id*="agent-badge"],
+      iframe[src*="kimi"],
+      div[style*="position: fixed"][style*="z-index: 9999"],
+      div[style*="position:fixed"][style*="z-index:9999"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-T0geQ6Nf.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-u0LQo12E.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      (function() {
+        function hideKimiAgent() {
+          var elements = document.querySelectorAll('iframe, div, span, a');
+          for (var i = 0; i < elements.length; i++) {
+            var el = elements[i];
+            var text = el.textContent || '';
+            var cls = el.className || '';
+            var id = el.id || '';
+            if (text.toLowerCase().indexOf('kimi agent') !== -1 ||
+                cls.toLowerCase().indexOf('kimi') !== -1 ||
+                id.toLowerCase().indexOf('kimi') !== -1 ||
+                cls.toLowerCase().indexOf('agent-badge') !== -1) {
+              el.style.display = 'none';
+              el.style.visibility = 'hidden';
+              el.style.opacity = '0';
+            }
+          }
+        }
+        hideKimiAgent();
+        setInterval(hideKimiAgent, 1000);
+        window.addEventListener('load', hideKimiAgent);
+      })();
+    </script>
+  </body>
+</html>
