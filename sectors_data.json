@@ -1,2351 +1,1337 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "sectors": [
     {
       "rank": 1,
-      "name": "非银金融",
-      "category": "一级行业",
-      "heat_score": 1878,
+      "name": "人工智能",
+      "category": "科技概念",
+      "heat_score": 66,
       "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 8,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.52,
-      "sources": 4,
+      "good_news": 16,
+      "bad_news": 3,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "sources": 6,
       "keywords": [
-        "自营",
-        "新华",
-        "投行",
-        "证券",
-        "平安"
+        "人工智能",
+        "DeepSeek",
+        "AI",
+        "OpenAI",
+        "大模型",
+        "算力",
+        "ChatGPT"
       ],
-      "news_count": 175,
+      "news_count": 34,
       "stocks": [
         {
-          "name": "南京银行",
-          "change_pct": 2.1,
-          "volume": 5442,
-          "headline": "华安证券恒赢20号集合资产管理计划合同条款变更的公告"
+          "name": "科大讯飞",
+          "change_pct": -1.25,
+          "volume": 189600,
+          "headline": "AI大模型核心标的"
         },
         {
-          "name": "中信银行",
-          "change_pct": 1.6,
-          "volume": 4620,
-          "headline": ""
+          "name": "寒武纪",
+          "change_pct": -1.05,
+          "volume": 1025800,
+          "headline": "AI大模型核心标的"
         },
         {
-          "name": "渤海租赁",
-          "change_pct": 1.5,
-          "volume": 6529,
-          "headline": ""
+          "name": "海光信息",
+          "change_pct": 1.62,
+          "volume": 961500,
+          "headline": "AI大模型核心标的"
+        },
+        {
+          "name": "昆仑万维",
+          "change_pct": -2.37,
+          "volume": 277300,
+          "headline": "AI大模型核心标的"
+        },
+        {
+          "name": "三六零",
+          "change_pct": -1.08,
+          "volume": 89800,
+          "headline": "AI大模型核心标的"
         }
       ]
     },
     {
       "rank": 2,
-      "name": "人工智能",
-      "category": "科技概念",
-      "heat_score": 463,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 6,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.58,
-      "sources": 4,
+      "name": "有色金属",
+      "category": "一级行业",
+      "heat_score": 31.5,
+      "heat_level": "🔥 中景气",
+      "good_news": 7,
+      "bad_news": 3,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.57,
+      "sources": 5,
       "keywords": [
-        "人工智能",
-        "OpenAI",
-        "ChatGPT",
-        "大模型",
-        "算力",
-        "AI"
+        "黄金",
+        "天齐",
+        "大宗商品",
+        "铝",
+        "镍",
+        "有色",
+        "白银",
+        "锂"
       ],
-      "news_count": 36,
-      "stocks": [
-        {
-          "name": "科大讯飞",
-          "change_pct": -0.3,
-          "volume": 33,
-          "headline": "特发信息：线缆业务营收利润双增 轻装上阵抢抓AI光通信机遇"
-        },
-        {
-          "name": "昆仑万维",
-          "change_pct": -0.5,
-          "volume": 89,
-          "headline": ""
-        },
-        {
-          "name": "三六零",
-          "change_pct": -1.4,
-          "volume": 57,
-          "headline": ""
-        }
-      ]
+      "news_count": 18,
+      "stocks": []
     },
     {
       "rank": 3,
-      "name": "有色金属",
-      "category": "一级行业",
-      "heat_score": 370,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 4,
-      "bad_news": 3,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.52,
-      "sources": 5,
+      "name": "券商",
+      "category": "金融地产",
+      "heat_score": 23.5,
+      "heat_level": "📊 低景气",
+      "good_news": 2,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.53,
+      "sources": 3,
       "keywords": [
-        "铜",
-        "镍",
-        "大宗商品",
-        "稀土",
-        "锂",
-        "黄金",
-        "有色",
-        "白银"
+        "中信证券",
+        "证券",
+        "经纪",
+        "科创板",
+        "自营",
+        "券商"
       ],
-      "news_count": 31,
+      "news_count": 18,
       "stocks": [
         {
-          "name": "株冶集团",
-          "change_pct": 10,
-          "volume": 1185,
-          "headline": "必和必拓集团第三季度铜产量476800吨，仍然预测全年铜产量190万至200万吨。 期货市场情报 有"
+          "name": "中信证券",
+          "change_pct": -0.86,
+          "volume": 319900,
+          "headline": "投行+经纪双轮驱动"
         },
         {
-          "name": "东方钽业",
-          "change_pct": 5.9,
-          "volume": 3109,
-          "headline": ""
+          "name": "华泰证券",
+          "change_pct": -1.55,
+          "volume": 138600,
+          "headline": "投行+经纪双轮驱动"
         },
         {
-          "name": "明泰铝业",
-          "change_pct": 4.5,
-          "volume": 8234,
-          "headline": ""
+          "name": "东方财富",
+          "change_pct": -1.44,
+          "volume": 467100,
+          "headline": "投行+经纪双轮驱动"
+        },
+        {
+          "name": "招商证券",
+          "change_pct": 0.06,
+          "volume": 61200,
+          "headline": "投行+经纪双轮驱动"
+        },
+        {
+          "name": "兴业证券",
+          "change_pct": -1,
+          "volume": 33200,
+          "headline": "投行+经纪双轮驱动"
         }
       ]
     },
     {
       "rank": 4,
-      "name": "石油石化",
-      "category": "一级行业",
-      "heat_score": 293,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 3,
+      "name": "存储芯片",
+      "category": "科技概念",
+      "heat_score": 23.5,
+      "heat_level": "📊 低景气",
+      "good_news": 6,
       "bad_news": 1,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.54,
-      "sources": 4,
+      "sentiment_score": 0.65,
+      "sources": 3,
       "keywords": [
-        "原油",
-        "石油",
-        "油价"
+        "存储",
+        "内存",
+        "NAND",
+        "江波龙",
+        "HBM",
+        "佰维存储",
+        "DRAM"
       ],
-      "news_count": 24,
-      "stocks": [
-        {
-          "name": "岳阳兴长",
-          "change_pct": 10,
-          "volume": 2546,
-          "headline": "伊朗战争冲击油价时间线：从150美元暴跌到结构性溢价"
-        },
-        {
-          "name": "仁智股份",
-          "change_pct": 5.6,
-          "volume": 6739,
-          "headline": ""
-        },
-        {
-          "name": "东华能源",
-          "change_pct": 2.6,
-          "volume": 3357,
-          "headline": ""
-        }
-      ]
+      "news_count": 11,
+      "stocks": []
     },
     {
       "rank": 5,
-      "name": "国防军工",
+      "name": "石油石化",
       "category": "一级行业",
-      "heat_score": 283,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 1,
-      "bad_news": 1,
-      "credibility": "高",
+      "heat_score": 20,
+      "heat_level": "📊 低景气",
+      "good_news": 3,
+      "bad_news": 3,
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
       "sources": 4,
       "keywords": [
-        "航空",
-        "导弹",
-        "航天",
-        "无人机",
-        "国防"
+        "成品油",
+        "原油",
+        "油价",
+        "石化",
+        "石油",
+        "中石化"
       ],
-      "news_count": 26,
-      "stocks": [
-        {
-          "name": "中国卫星",
-          "change_pct": 6,
-          "volume": 11923,
-          "headline": "特朗普称政府“或许”应救助陷入困境的精神航空"
-        },
-        {
-          "name": "航天电子",
-          "change_pct": 0,
-          "volume": 25822,
-          "headline": ""
-        },
-        {
-          "name": "威海广泰",
-          "change_pct": -0.5,
-          "volume": 488,
-          "headline": ""
-        }
-      ]
+      "news_count": 15,
+      "stocks": []
     },
     {
       "rank": 6,
       "name": "医药生物",
       "category": "一级行业",
-      "heat_score": 228,
-      "heat_level": "🔥🔥🔥 超高景气",
+      "heat_score": 19.5,
+      "heat_level": "📊 低景气",
       "good_news": 3,
-      "bad_news": 4,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0.47,
-      "sources": 4,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.57,
+      "sources": 5,
       "keywords": [
-        "生物",
         "医药",
+        "生物",
+        "疫苗",
+        "中药",
         "创新药"
       ],
-      "news_count": 19,
-      "stocks": [
-        {
-          "name": "顺利退",
-          "change_pct": 7.7,
-          "volume": 3678,
-          "headline": "百克生物2026年第一季度归母净利润亏损约347万元"
-        },
-        {
-          "name": "益佰制药",
-          "change_pct": 5,
-          "volume": 14373,
-          "headline": ""
-        },
-        {
-          "name": "普洛药业",
-          "change_pct": 4.8,
-          "volume": 1632,
-          "headline": ""
-        }
-      ]
+      "news_count": 11,
+      "stocks": []
     },
     {
       "rank": 7,
-      "name": "电子",
-      "category": "一级行业",
-      "heat_score": 223,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 6,
-      "bad_news": 2,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.65,
-      "sources": 4,
-      "keywords": [
-        "电子",
-        "手机",
-        "消费电子",
-        "PCB",
-        "半导体"
-      ],
-      "news_count": 13,
-      "stocks": [
-        {
-          "name": "英唐智控",
-          "change_pct": 9.5,
-          "volume": 20850,
-          "headline": "盟升电子2025年实现营业收入5.25亿元 创历史新高"
-        },
-        {
-          "name": "天银机电",
-          "change_pct": 9,
-          "volume": 7769,
-          "headline": ""
-        },
-        {
-          "name": "丹邦退",
-          "change_pct": 8.6,
-          "volume": 4048,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "汽车",
-      "category": "一级行业",
-      "heat_score": 215,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.56,
-      "sources": 5,
-      "keywords": [
-        "长城",
-        "长安",
-        "汽车",
-        "零部件"
-      ],
-      "news_count": 17,
-      "stocks": [
-        {
-          "name": "宁波高发",
-          "change_pct": 10,
-          "volume": 1477,
-          "headline": "德赛西威与长安汽车签署全球战略协同伙伴协议"
-        },
-        {
-          "name": "均胜电子",
-          "change_pct": 10,
-          "volume": 10387,
-          "headline": ""
-        },
-        {
-          "name": "文投控股",
-          "change_pct": 9.9,
-          "volume": 15041,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "name": "银行",
-      "category": "一级行业",
-      "heat_score": 202,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 0,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0.47,
-      "sources": 6,
-      "keywords": [
-        "信贷",
-        "银行",
-        "国有大行",
-        "降息",
-        "央行"
-      ],
-      "news_count": 19,
-      "stocks": [
-        {
-          "name": "南京银行",
-          "change_pct": 2.1,
-          "volume": 5442,
-          "headline": "3000亿特别国债将发行！国有大行迎第二轮定向注资"
-        },
-        {
-          "name": "中信银行",
-          "change_pct": 1.6,
-          "volume": 4620,
-          "headline": ""
-        },
-        {
-          "name": "渤海租赁",
-          "change_pct": 1.5,
-          "volume": 6529,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "综合金融",
-      "category": "一级行业",
-      "heat_score": 178,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 2,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.54,
-      "sources": 4,
-      "keywords": [
-        "租赁",
-        "期货",
-        "金融",
-        "信托"
-      ],
-      "news_count": 14,
-      "stocks": [
-        {
-          "name": "南京银行",
-          "change_pct": 2.1,
-          "volume": 5442,
-          "headline": "外贸信托-五行荟智集合资金信托计划_20260423_申购告知书"
-        },
-        {
-          "name": "中信银行",
-          "change_pct": 1.6,
-          "volume": 4620,
-          "headline": ""
-        },
-        {
-          "name": "渤海租赁",
-          "change_pct": 1.5,
-          "volume": 6529,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "name": "钠离子电池",
       "category": "新能源产业链",
-      "heat_score": 171,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 2,
+      "heat_score": 16.5,
+      "heat_level": "📊 低景气",
+      "good_news": 5,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.58,
+      "sentiment_score": 0.72,
       "sources": 3,
       "keywords": [
         "钠离子",
-        "宁德时代",
-        "钠电池"
+        "钠电池",
+        "宁德时代"
       ],
-      "news_count": 13,
-      "stocks": [
-        {
-          "name": "天赐材料",
-          "change_pct": 6.3,
-          "volume": 159,
-          "headline": "宁德时代发布第三代神行超充电池 满电仅需6分钟"
-        },
-        {
-          "name": "亿纬锂能",
-          "change_pct": 4.4,
-          "volume": 107,
-          "headline": ""
-        },
-        {
-          "name": "宁德时代",
-          "change_pct": 3.5,
-          "volume": 58,
-          "headline": "宁德时代发布第三代神行超充电池 满电仅需6分钟"
-        }
-      ]
+      "news_count": 5,
+      "stocks": []
     },
     {
-      "rank": 12,
-      "name": "交通运输",
-      "category": "一级行业",
-      "heat_score": 166,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 1,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.54,
-      "sources": 3,
-      "keywords": [
-        "港口",
-        "物流",
-        "机场",
-        "快递",
-        "铁路"
-      ],
-      "news_count": 14,
-      "stocks": [
-        {
-          "name": "长江投资",
-          "change_pct": 2.8,
-          "volume": 1168,
-          "headline": "联合包裹与联邦快递已开始申请部分关税退款"
-        },
-        {
-          "name": "蔚蓝锂芯",
-          "change_pct": 2.6,
-          "volume": 7155,
-          "headline": ""
-        },
-        {
-          "name": "淮河能源",
-          "change_pct": 1.9,
-          "volume": 6687,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "name": "计算机",
-      "category": "一级行业",
-      "heat_score": 163,
-      "heat_level": "🔥🔥🔥 超高景气",
+      "rank": 8,
+      "name": "期货",
+      "category": "金融地产",
+      "heat_score": 16,
+      "heat_level": "📊 低景气",
       "good_news": 3,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
       "sentiment_score": 0.59,
       "sources": 4,
       "keywords": [
-        "云计算",
-        "网络安全",
-        "软件",
-        "计算机"
+        "期货",
+        "南华期货",
+        "股指期货",
+        "大宗商品"
       ],
-      "news_count": 11,
-      "stocks": [
-        {
-          "name": "ST恒信",
-          "change_pct": 10.2,
-          "volume": 6549,
-          "headline": "AI已发现数千个软件漏洞，安全攻防进入新纪元"
-        },
-        {
-          "name": "东山精密",
-          "change_pct": 7.9,
-          "volume": 9647,
-          "headline": ""
-        },
-        {
-          "name": "深南退",
-          "change_pct": 7.1,
-          "volume": 3119,
-          "headline": ""
-        }
-      ]
+      "news_count": 8,
+      "stocks": []
+    },
+    {
+      "rank": 9,
+      "name": "CPO概念",
+      "category": "科技概念",
+      "heat_score": 14.5,
+      "heat_level": "📊 低景气",
+      "good_news": 4,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.7,
+      "sources": 3,
+      "keywords": [
+        "天孚通信",
+        "1.6T",
+        "800G",
+        "光模块"
+      ],
+      "news_count": 5,
+      "stocks": []
+    },
+    {
+      "rank": 10,
+      "name": "商业航天",
+      "category": "科技概念",
+      "heat_score": 14.5,
+      "heat_level": "📊 低景气",
+      "good_news": 3,
+      "bad_news": 3,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.51,
+      "sources": 3,
+      "keywords": [
+        "卫星",
+        "发射",
+        "商业航天",
+        "中国卫星",
+        "火箭"
+      ],
+      "news_count": 10,
+      "stocks": []
+    },
+    {
+      "rank": 11,
+      "name": "电子",
+      "category": "一级行业",
+      "heat_score": 14,
+      "heat_level": "📊 低景气",
+      "good_news": 3,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.67,
+      "sources": 4,
+      "keywords": [
+        "手机",
+        "消费电子",
+        "半导体",
+        "电子"
+      ],
+      "news_count": 6,
+      "stocks": []
+    },
+    {
+      "rank": 12,
+      "name": "业绩预增",
+      "category": "其他概念",
+      "heat_score": 14,
+      "heat_level": "📊 低景气",
+      "good_news": 3,
+      "bad_news": 1,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.62,
+      "sources": 4,
+      "keywords": [
+        "扭亏为盈",
+        "季报",
+        "净利润"
+      ],
+      "news_count": 7,
+      "stocks": []
+    },
+    {
+      "rank": 13,
+      "name": "鸿蒙生态",
+      "category": "科技概念",
+      "heat_score": 8.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.54,
+      "sources": 3,
+      "keywords": [
+        "HarmonyOS",
+        "华为",
+        "鸿蒙"
+      ],
+      "news_count": 5,
+      "stocks": []
     },
     {
       "rank": 14,
-      "name": "纺织服饰",
+      "name": "农林牧渔",
       "category": "一级行业",
-      "heat_score": 141,
-      "heat_level": "🔥🔥🔥 超高景气",
-      "good_news": 3,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.61,
+      "heat_score": 8.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 2,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.49,
       "sources": 3,
       "keywords": [
-        "出口",
-        "品牌"
+        "农业",
+        "温氏",
+        "牧原",
+        "粮食"
       ],
-      "news_count": 9,
-      "stocks": [
-        {
-          "name": "金鹰股份",
-          "change_pct": 2.9,
-          "volume": 2423,
-          "headline": "俄罗斯氦气出口管制影响688268？涨停之后公司最新回应"
-        },
-        {
-          "name": "百隆东方",
-          "change_pct": 2.9,
-          "volume": 1275,
-          "headline": ""
-        },
-        {
-          "name": "华纺股份",
-          "change_pct": 2.4,
-          "volume": 4394,
-          "headline": ""
-        }
-      ]
+      "news_count": 7,
+      "stocks": []
     },
     {
       "rank": 15,
-      "name": "商贸零售",
+      "name": "非银金融",
       "category": "一级行业",
-      "heat_score": 138,
-      "heat_level": "🔥🔥 高景气",
-      "good_news": 2,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
+      "heat_score": 8,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
       "sentiment_score": 0.55,
-      "sources": 4,
+      "sources": 2,
       "keywords": [
-        "阿里",
-        "拼多多",
-        "零售",
-        "电商",
-        "京东"
+        "平安",
+        "证券",
+        "保险",
+        "新华",
+        "自营"
       ],
-      "news_count": 10,
-      "stocks": [
-        {
-          "name": "中兴商业",
-          "change_pct": 10,
-          "volume": 2694,
-          "headline": "受油价创纪录飙升推动，美国零售销售额创下三年多来最大涨幅"
-        },
-        {
-          "name": "飞亚达",
-          "change_pct": 5.5,
-          "volume": 2937,
-          "headline": ""
-        },
-        {
-          "name": "太阳能",
-          "change_pct": 3.3,
-          "volume": 16315,
-          "headline": ""
-        }
-      ]
+      "news_count": 5,
+      "stocks": []
     },
     {
       "rank": 16,
-      "name": "机械设备",
+      "name": "计算机",
       "category": "一级行业",
-      "heat_score": 133,
-      "heat_level": "🔥🔥 高景气",
+      "heat_score": 8,
+      "heat_level": "📊 低景气",
       "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
+      "bad_news": 1,
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.61,
-      "sources": 4,
+      "sentiment_score": 0.6,
+      "sources": 2,
       "keywords": [
-        "工业母机",
-        "设备",
-        "机器人"
+        "SaaS",
+        "大数据",
+        "云计算",
+        "网络安全",
+        "软件"
       ],
-      "news_count": 9,
-      "stocks": [
-        {
-          "name": "科林退",
-          "change_pct": 10.3,
-          "volume": 2204,
-          "headline": "前小鹏汽车副总裁李力耘加入众擎机器人"
-        },
-        {
-          "name": "巨力索具",
-          "change_pct": 10,
-          "volume": 28931,
-          "headline": ""
-        },
-        {
-          "name": "三佳科技",
-          "change_pct": 10,
-          "volume": 2931,
-          "headline": ""
-        }
-      ]
+      "news_count": 4,
+      "stocks": []
     },
     {
       "rank": 17,
-      "name": "养老产业",
+      "name": "国防军工",
+      "category": "一级行业",
+      "heat_score": 8,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.54,
+      "sources": 2,
+      "keywords": [
+        "导弹",
+        "航天",
+        "军工",
+        "无人机",
+        "航空",
+        "国防"
+      ],
+      "news_count": 5,
+      "stocks": []
+    },
+    {
+      "rank": 18,
+      "name": "银行",
+      "category": "一级行业",
+      "heat_score": 7.5,
+      "heat_level": "📊 低景气",
+      "good_news": 0,
+      "bad_news": 2,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.44,
+      "sources": 3,
+      "keywords": [
+        "降息",
+        "银行",
+        "降准",
+        "宁波银行",
+        "LPR",
+        "央行"
+      ],
+      "news_count": 8,
+      "stocks": []
+    },
+    {
+      "rank": 19,
+      "name": "ESG",
       "category": "其他概念",
-      "heat_score": 117,
-      "heat_level": "🔥 中景气",
+      "heat_score": 7.5,
+      "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
       "sources": 1,
       "keywords": [
-        "养老"
+        "治理",
+        "ESG",
+        "社会",
+        "可持续发展",
+        "环境"
       ],
-      "news_count": 11,
-      "stocks": [
-        {
-          "name": "湖南发展",
-          "change_pct": 1.7,
-          "volume": 43,
-          "headline": "东方养老目标日期2050五年持有期混合型发起式基金中基金(FOF)2026年第1季度报告"
-        },
-        {
-          "name": "福瑞达",
-          "change_pct": 0.8,
-          "volume": 4,
-          "headline": ""
-        },
-        {
-          "name": "达仁堂",
-          "change_pct": 0.3,
-          "volume": 2,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "name": "传媒",
-      "category": "一级行业",
-      "heat_score": 116,
-      "heat_level": "🔥 中景气",
-      "good_news": 1,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.56,
-      "sources": 3,
-      "keywords": [
-        "游戏",
-        "传媒"
-      ],
-      "news_count": 9,
-      "stocks": [
-        {
-          "name": "长动退",
-          "change_pct": 6.1,
-          "volume": 2048,
-          "headline": "光线传媒：2026年第一季度归属于上市公司股东的净利润为23275590.80元"
-        },
-        {
-          "name": "新文退",
-          "change_pct": 4.2,
-          "volume": 5188,
-          "headline": ""
-        },
-        {
-          "name": "天舟文化",
-          "change_pct": 1.8,
-          "volume": 3779,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "name": "房地产",
-      "category": "一级行业",
-      "heat_score": 105,
-      "heat_level": "🔥 中景气",
-      "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.67,
-      "sources": 5,
-      "keywords": [
-        "万科",
-        "物业",
-        "地产",
-        "房企"
-      ],
-      "news_count": 6,
-      "stocks": [
-        {
-          "name": "皇庭国际",
-          "change_pct": 10.1,
-          "volume": 18479,
-          "headline": "南都物业2025年归母净利润同比增353% 拟每股派息0.2141元"
-        },
-        {
-          "name": "黑牡丹",
-          "change_pct": 5.5,
-          "volume": 3106,
-          "headline": ""
-        },
-        {
-          "name": "*ST岩石",
-          "change_pct": 5.3,
-          "volume": 616,
-          "headline": ""
-        }
-      ]
+      "news_count": 7,
+      "stocks": []
     },
     {
       "rank": 20,
-      "name": "券商",
-      "category": "金融地产",
-      "heat_score": 99,
+      "name": "房地产",
+      "category": "一级行业",
+      "heat_score": 6.5,
       "heat_level": "📊 低景气",
-      "good_news": 0,
+      "good_news": 1,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "sources": 2,
+      "sentiment_score": 0.57,
+      "sources": 3,
       "keywords": [
-        "中信证券",
-        "证券",
-        "科创板"
+        "地产",
+        "房地产"
       ],
-      "news_count": 9,
-      "stocks": [
-        {
-          "name": "中信证券",
-          "change_pct": 0,
-          "volume": 81,
-          "headline": "神马股份:中信证券股份有限公司关于神马股份2025年度募集资金存放与使用情况的核查意见"
-        },
-        {
-          "name": "华泰证券",
-          "change_pct": -0.1,
-          "volume": 50,
-          "headline": ""
-        },
-        {
-          "name": "招商证券",
-          "change_pct": -0.2,
-          "volume": 17,
-          "headline": ""
-        }
-      ]
+      "news_count": 3,
+      "stocks": []
     },
     {
       "rank": 21,
-      "name": "存储芯片",
+      "name": "量子科技",
       "category": "科技概念",
-      "heat_score": 98,
+      "heat_score": 5.5,
       "heat_level": "📊 低景气",
       "good_news": 1,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.57,
-      "sources": 4,
+      "bad_news": 1,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.52,
+      "sources": 3,
       "keywords": [
-        "佰维存储",
-        "存储",
-        "NAND"
+        "量子",
+        "国盾量子"
       ],
-      "news_count": 7,
-      "stocks": [
-        {
-          "name": "兆易创新",
-          "change_pct": 5.4,
-          "volume": 43,
-          "headline": "佰维存储发生15笔大宗交易 合计成交8592.26万元"
-        },
-        {
-          "name": "佰维存储",
-          "change_pct": 2.7,
-          "volume": 3370,
-          "headline": "佰维存储发生15笔大宗交易 合计成交8592.26万元"
-        },
-        {
-          "name": "普冉股份",
-          "change_pct": 1.4,
-          "volume": 529,
-          "headline": ""
-        }
-      ]
+      "news_count": 3,
+      "stocks": []
     },
     {
       "rank": 22,
-      "name": "农林牧渔",
+      "name": "公用事业",
       "category": "一级行业",
-      "heat_score": 98,
-      "heat_level": "📊 低景气",
-      "good_news": 1,
-      "bad_news": 4,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0.33,
-      "sources": 4,
-      "keywords": [
-        "粮食",
-        "养殖",
-        "温氏",
-        "牧原",
-        "农业"
-      ],
-      "news_count": 9,
-      "stocks": [
-        {
-          "name": "益生股份",
-          "change_pct": 6.5,
-          "volume": 3632,
-          "headline": "生猪养殖业去产能提速 头部企业从“熬周期”到“练内功”"
-        },
-        {
-          "name": "冠农股份",
-          "change_pct": 5.8,
-          "volume": 3131,
-          "headline": ""
-        },
-        {
-          "name": "丰林集团",
-          "change_pct": 4,
-          "volume": 8120,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "name": "6G通信",
-      "category": "科技概念",
-      "heat_score": 86,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0.44,
-      "sources": 3,
-      "keywords": [
-        "通信",
-        "移动",
-        "联通",
-        "电信",
-        "6G"
-      ],
-      "news_count": 8,
-      "stocks": [
-        {
-          "name": "中国移动",
-          "change_pct": 3.6,
-          "volume": 23,
-          "headline": "德国电信据悉考虑与T-Mobile US进行全面合并"
-        },
-        {
-          "name": "中国电信",
-          "change_pct": 2.7,
-          "volume": 182,
-          "headline": ""
-        },
-        {
-          "name": "烽火通信",
-          "change_pct": 0.1,
-          "volume": 93,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "name": "金融科技",
-      "category": "金融地产",
-      "heat_score": 86,
+      "heat_score": 5.5,
       "heat_level": "📊 低景气",
       "good_news": 1,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.58,
-      "sources": 3,
+      "sentiment_score": 0.65,
+      "sources": 1,
       "keywords": [
-        "同花顺",
-        "支付",
-        "四方精创"
+        "燃气",
+        "水电",
+        "电力",
+        "风电"
       ],
-      "news_count": 6,
+      "news_count": 3,
+      "stocks": []
+    },
+    {
+      "rank": 23,
+      "name": "机械设备",
+      "category": "一级行业",
+      "heat_score": 5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.6,
+      "sources": 2,
+      "keywords": [
+        "机床",
+        "机器人",
+        "挖机",
+        "工程机械",
+        "机械"
+      ],
+      "news_count": 2,
+      "stocks": []
+    },
+    {
+      "rank": 24,
+      "name": "6G通信",
+      "category": "科技概念",
+      "heat_score": 5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.65,
+      "sources": 2,
+      "keywords": [
+        "通信",
+        "6G",
+        "电信",
+        "移动"
+      ],
+      "news_count": 2,
       "stocks": []
     },
     {
       "rank": 25,
-      "name": "基础化工",
-      "category": "一级行业",
-      "heat_score": 86,
-      "heat_level": "📊 低景气",
-      "good_news": 1,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.58,
-      "sources": 3,
-      "keywords": [
-        "化工",
-        "新材料",
-        "化肥",
-        "化学"
-      ],
-      "news_count": 6,
-      "stocks": [
-        {
-          "name": "安诺其",
-          "change_pct": 20,
-          "volume": 850,
-          "headline": "华峰化学：第一季度净利润6.69亿元，同比增长32.58%"
-        },
-        {
-          "name": "九鼎新材",
-          "change_pct": 10,
-          "volume": 9443,
-          "headline": ""
-        },
-        {
-          "name": "神剑股份",
-          "change_pct": 10,
-          "volume": 35733,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "name": "食品饮料",
-      "category": "一级行业",
-      "heat_score": 79,
-      "heat_level": "📊 低景气",
-      "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.75,
-      "sources": 2,
-      "keywords": [
-        "食品"
-      ],
-      "news_count": 4,
-      "stocks": [
-        {
-          "name": "广农糖业",
-          "change_pct": 6.5,
-          "volume": 3269,
-          "headline": "穿越行业周期，洽洽食品以创新与渠道双轮驱动韧性增长"
-        },
-        {
-          "name": "好想你",
-          "change_pct": 3.6,
-          "volume": 3960,
-          "headline": ""
-        },
-        {
-          "name": "莲花控股",
-          "change_pct": 2.8,
-          "volume": 23926,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "name": "黄金",
+      "name": "铜",
       "category": "周期资源",
-      "heat_score": 76,
-      "heat_level": "📊 低景气",
-      "good_news": 2,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.63,
-      "sources": 3,
-      "keywords": [
-        "紫金矿业",
-        "金价"
-      ],
-      "news_count": 4,
-      "stocks": [
-        {
-          "name": "湖南黄金",
-          "change_pct": 1.6,
-          "volume": 54,
-          "headline": "停火即将到期，美伊谈判存变数！美股高开，金价跌破4800美元"
-        },
-        {
-          "name": "中金黄金",
-          "change_pct": 0.8,
-          "volume": 45,
-          "headline": ""
-        },
-        {
-          "name": "赤峰黄金",
-          "change_pct": 0.2,
-          "volume": 26,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "name": "公用事业",
-      "category": "一级行业",
-      "heat_score": 76,
+      "heat_score": 5,
       "heat_level": "📊 低景气",
       "good_news": 1,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.6,
-      "sources": 3,
-      "keywords": [
-        "燃气",
-        "绿电",
-        "风电"
-      ],
-      "news_count": 5,
-      "stocks": [
-        {
-          "name": "宁波能源",
-          "change_pct": 4.9,
-          "volume": 16018,
-          "headline": "高盛、摩根大通现身股东名单 洪通燃气营收规模增长超13% 加速转型综合能源服务商"
-        },
-        {
-          "name": "辽宁能源",
-          "change_pct": 2.3,
-          "volume": 9586,
-          "headline": ""
-        },
-        {
-          "name": "国新能源",
-          "change_pct": 1.9,
-          "volume": 4915,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "name": "建筑材料",
-      "category": "一级行业",
-      "heat_score": 73,
-      "heat_level": "📊 低景气",
-      "good_news": 1,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "sources": 4,
-      "keywords": [
-        "玻璃"
-      ],
-      "news_count": 5,
-      "stocks": [
-        {
-          "name": "金 螳 螂",
-          "change_pct": 10,
-          "volume": 11956,
-          "headline": "福耀玻璃一季度营收增5.08% 归母净利润同比下滑15.68%"
-        },
-        {
-          "name": "中衡设计",
-          "change_pct": 10,
-          "volume": 1474,
-          "headline": ""
-        },
-        {
-          "name": "全筑股份",
-          "change_pct": 9.8,
-          "volume": 4515,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "name": "建筑装饰",
-      "category": "一级行业",
-      "heat_score": 69,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.7,
       "sources": 2,
       "keywords": [
-        "建筑",
-        "工程"
-      ],
-      "news_count": 6,
-      "stocks": [
-        {
-          "name": "金 螳 螂",
-          "change_pct": 10,
-          "volume": 11956,
-          "headline": "ST岭南因涉嫌违法转包工程被立案调查 涉案金额2.25亿元"
-        },
-        {
-          "name": "中衡设计",
-          "change_pct": 10,
-          "volume": 1474,
-          "headline": ""
-        },
-        {
-          "name": "全筑股份",
-          "change_pct": 9.8,
-          "volume": 4515,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "name": "商业航天",
-      "category": "科技概念",
-      "heat_score": 63,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 2,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0.33,
-      "sources": 4,
-      "keywords": [
-        "中国卫星",
-        "卫星",
-        "商业航天",
-        "火箭",
-        "星链"
-      ],
-      "news_count": 6,
-      "stocks": [
-        {
-          "name": "中国卫星",
-          "change_pct": 6,
-          "volume": 119,
-          "headline": "中国卫星一季度营收增长37.89%至6.09亿元 归母净利润亏损4269.02万元"
-        },
-        {
-          "name": "航天电子",
-          "change_pct": 0,
-          "volume": 258,
-          "headline": ""
-        },
-        {
-          "name": "北斗星通",
-          "change_pct": -0.9,
-          "volume": 21,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "name": "北交所",
-      "category": "其他概念",
-      "heat_score": 59,
-      "heat_level": "📊 低景气",
-      "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 1,
-      "sources": 2,
-      "keywords": [
-        "北交所",
-        "中小企业"
-      ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "贝特瑞",
-          "change_pct": 0,
-          "volume": 0,
-          "headline": "北交所逾百份年报出炉 七成多实现营收增长"
-        },
-        {
-          "name": "同力股份",
-          "change_pct": 0,
-          "volume": 0,
-          "headline": ""
-        },
-        {
-          "name": "诺思兰德",
-          "change_pct": 0,
-          "volume": 0,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "name": "智能座舱",
-      "category": "汽车产业链",
-      "heat_score": 59,
-      "heat_level": "📊 低景气",
-      "good_news": 2,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 1,
-      "sources": 2,
-      "keywords": [
-        "中科创达"
+        "铜价",
+        "铜"
       ],
       "news_count": 2,
       "stocks": []
     },
     {
-      "rank": 34,
-      "name": "ESG",
-      "category": "其他概念",
-      "heat_score": 59,
+      "rank": 26,
+      "name": "电力设备",
+      "category": "一级行业",
+      "heat_score": 4.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.62,
+      "sources": 1,
+      "keywords": [
+        "变压器",
+        "储能",
+        "电网"
+      ],
+      "news_count": 2,
+      "stocks": []
+    },
+    {
+      "rank": 27,
+      "name": "汽车",
+      "category": "一级行业",
+      "heat_score": 4,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
       "sources": 2,
       "keywords": [
-        "环境",
-        "社会",
-        "可持续发展"
+        "汽车",
+        "长安",
+        "自动驾驶"
       ],
-      "news_count": 5,
-      "stocks": [
-        {
-          "name": "工商银行",
-          "change_pct": 0.7,
-          "volume": 249,
-          "headline": "2025年度环境、社会及管治报告"
-        },
-        {
-          "name": "贵州茅台",
-          "change_pct": 0.1,
-          "volume": 2,
-          "headline": ""
-        },
-        {
-          "name": "招商银行",
-          "change_pct": 0,
-          "volume": 55,
-          "headline": ""
-        }
-      ]
+      "news_count": 3,
+      "stocks": []
+    },
+    {
+      "rank": 28,
+      "name": "宠物经济",
+      "category": "大消费",
+      "heat_score": 4,
+      "heat_level": "📊 低景气",
+      "good_news": 0,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "sources": 2,
+      "keywords": [
+        "宠物",
+        "乖宝宠物"
+      ],
+      "news_count": 3,
+      "stocks": []
+    },
+    {
+      "rank": 29,
+      "name": "钙钛矿电池",
+      "category": "新能源产业链",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "高",
+      "sentiment": "利好",
+      "sentiment_score": 0.7,
+      "sources": 1,
+      "keywords": [
+        "薄膜",
+        "迈为股份"
+      ],
+      "news_count": 1,
+      "stocks": []
+    },
+    {
+      "rank": 30,
+      "name": "破净",
+      "category": "其他概念",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.8,
+      "sources": 1,
+      "keywords": [
+        "估值",
+        "银行"
+      ],
+      "news_count": 1,
+      "stocks": []
+    },
+    {
+      "rank": 31,
+      "name": "储能",
+      "category": "新能源产业链",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.8,
+      "sources": 1,
+      "keywords": [
+        "储能",
+        "宁德时代"
+      ],
+      "news_count": 1,
+      "stocks": []
+    },
+    {
+      "rank": 32,
+      "name": "创新药",
+      "category": "大消费",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.7,
+      "sources": 1,
+      "keywords": [
+        "ADC",
+        "创新药"
+      ],
+      "news_count": 1,
+      "stocks": []
+    },
+    {
+      "rank": 33,
+      "name": "数据中心",
+      "category": "科技概念",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.8,
+      "sources": 1,
+      "keywords": [
+        "数据中心",
+        "液冷"
+      ],
+      "news_count": 1,
+      "stocks": []
+    },
+    {
+      "rank": 34,
+      "name": "光伏",
+      "category": "新能源产业链",
+      "heat_score": 3.5,
+      "heat_level": "📊 低景气",
+      "good_news": 1,
+      "bad_news": 0,
+      "credibility": "中",
+      "sentiment": "利好",
+      "sentiment_score": 0.8,
+      "sources": 1,
+      "keywords": [
+        "储能",
+        "光伏"
+      ],
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 35,
-      "name": "风电",
-      "category": "新能源产业链",
-      "heat_score": 54,
+      "name": "建筑装饰",
+      "category": "一级行业",
+      "heat_score": 3.5,
       "heat_level": "📊 低景气",
       "good_news": 1,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利好",
-      "sentiment_score": 0.67,
-      "sources": 2,
+      "sentiment_score": 0.7,
+      "sources": 1,
       "keywords": [
-        "东方电缆"
+        "工程",
+        "建筑"
       ],
-      "news_count": 3,
-      "stocks": [
-        {
-          "name": "明阳智能",
-          "change_pct": -0.6,
-          "volume": 73,
-          "headline": "东方电缆一季度归母净利润约3.72亿元 同比增32.26%"
-        },
-        {
-          "name": "上海电气",
-          "change_pct": -1,
-          "volume": 84,
-          "headline": ""
-        },
-        {
-          "name": "东方电气",
-          "change_pct": -1.2,
-          "volume": 62,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 36,
-      "name": "环保",
-      "category": "一级行业",
-      "heat_score": 54,
+      "name": "黄金",
+      "category": "周期资源",
+      "heat_score": 3,
       "heat_level": "📊 低景气",
-      "good_news": 1,
+      "good_news": 0,
       "bad_news": 0,
       "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 0.67,
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
       "sources": 2,
       "keywords": [
-        "环保"
+        "黄金",
+        "金价"
       ],
-      "news_count": 3,
-      "stocks": [
-        {
-          "name": "凯美特气",
-          "change_pct": 3.5,
-          "volume": 7510,
-          "headline": "首创环保回应海宁项目：生化段运行能耗下降54%，实现零碳源投加"
-        },
-        {
-          "name": "高能环境",
-          "change_pct": 3,
-          "volume": 7735,
-          "headline": ""
-        },
-        {
-          "name": "兴蓉环境",
-          "change_pct": 2.5,
-          "volume": 2736,
-          "headline": ""
-        }
-      ]
+      "news_count": 2,
+      "stocks": []
     },
     {
       "rank": 37,
-      "name": "期货",
-      "category": "金融地产",
-      "heat_score": 41,
+      "name": "核电",
+      "category": "新能源产业链",
+      "heat_score": 3,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 3,
+      "sources": 2,
       "keywords": [
-        "期货",
-        "大宗商品",
-        "股指期货"
+        "核电",
+        "核电机组",
+        "华龙一号",
+        "核燃料"
       ],
-      "news_count": 3,
-      "stocks": [
-        {
-          "name": "瑞达期货",
-          "change_pct": 1,
-          "volume": 11,
-          "headline": "必和必拓集团第三季度西澳铁矿石总产量6,975万吨；第三季度可归属矿石产出6,280万吨；仍然预测全"
-        },
-        {
-          "name": "中期退",
-          "change_pct": 0,
-          "volume": 0,
-          "headline": ""
-        },
-        {
-          "name": "永安期货",
-          "change_pct": -0.1,
-          "volume": 4,
-          "headline": ""
-        }
-      ]
+      "news_count": 2,
+      "stocks": []
     },
     {
       "rank": 38,
-      "name": "CPO概念",
-      "category": "科技概念",
-      "heat_score": 41,
+      "name": "交通运输",
+      "category": "一级行业",
+      "heat_score": 3,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 3,
+      "sources": 2,
       "keywords": [
-        "光模块",
-        "800G"
+        "铁路",
+        "快递"
       ],
-      "news_count": 3,
-      "stocks": [
-        {
-          "name": "中际旭创",
-          "change_pct": 1.8,
-          "volume": 25,
-          "headline": "下游需求旺盛 光模块上市公司业绩向好"
-        },
-        {
-          "name": "光迅科技",
-          "change_pct": 1.4,
-          "volume": 58,
-          "headline": ""
-        },
-        {
-          "name": "华工科技",
-          "change_pct": 1.1,
-          "volume": 70,
-          "headline": ""
-        }
-      ]
+      "news_count": 2,
+      "stocks": []
     },
     {
       "rank": 39,
-      "name": "家用电器",
-      "category": "一级行业",
-      "heat_score": 41,
+      "name": "风电",
+      "category": "新能源产业链",
+      "heat_score": 2.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
-      "bad_news": 0,
-      "credibility": "高",
+      "bad_news": 1,
+      "credibility": "中",
       "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "sources": 3,
+      "sentiment_score": 0.43,
+      "sources": 1,
       "keywords": [
-        "家电",
-        "空调"
+        "海上风电",
+        "风电"
       ],
       "news_count": 3,
-      "stocks": [
-        {
-          "name": "阳光照明",
-          "change_pct": 10,
-          "volume": 7772,
-          "headline": "伊朗国家电视台：伊美停火协议将于“午夜到期”"
-        },
-        {
-          "name": "TCL智家",
-          "change_pct": 5.9,
-          "volume": 3922,
-          "headline": ""
-        },
-        {
-          "name": "深康佳Ａ",
-          "change_pct": 4.6,
-          "volume": 8225,
-          "headline": ""
-        }
-      ]
+      "stocks": []
     },
     {
       "rank": 40,
-      "name": "美容护理",
+      "name": "食品饮料",
       "category": "一级行业",
-      "heat_score": 39,
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "珀莱雅"
+        "饮料",
+        "食品"
       ],
-      "news_count": 3,
-      "stocks": [
-        {
-          "name": "神城B退",
-          "change_pct": 13.3,
-          "volume": 577,
-          "headline": "珀莱雅：第一季度净利润3.67亿元，同比下降6.05%"
-        },
-        {
-          "name": "东海B退",
-          "change_pct": 11.1,
-          "volume": 222,
-          "headline": ""
-        },
-        {
-          "name": "山航B退",
-          "change_pct": 10.1,
-          "volume": 253,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 41,
-      "name": "光伏",
-      "category": "新能源产业链",
-      "heat_score": 39,
+      "name": "镍钴",
+      "category": "周期资源",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
-      "good_news": 1,
-      "bad_news": 1,
+      "good_news": 0,
+      "bad_news": 0,
       "credibility": "高",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "硅料",
-        "光伏",
-        "储能"
+        "华友钴业",
+        "钴"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "阳光电源",
-          "change_pct": 0.8,
-          "volume": 52,
-          "headline": "大全能源连亏两年，一季度硅料大跌业绩再度承压"
-        },
-        {
-          "name": "通威股份",
-          "change_pct": 0,
-          "volume": 73,
-          "headline": ""
-        },
-        {
-          "name": "隆基绿能",
-          "change_pct": -0.3,
-          "volume": 91,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 42,
-      "name": "镍钴",
-      "category": "周期资源",
-      "heat_score": 32,
+      "name": "乡村振兴",
+      "category": "其他概念",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
-      "good_news": 1,
+      "good_news": 0,
       "bad_news": 0,
       "credibility": "高",
-      "sentiment": "利好",
-      "sentiment_score": 1,
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
       "sources": 1,
       "keywords": [
-        "格林美"
+        "农业",
+        "农村"
       ],
       "news_count": 1,
-      "stocks": [
-        {
-          "name": "贵研铂业",
-          "change_pct": 2.3,
-          "volume": 30,
-          "headline": "格林美2025年归母净利润同比增长54.87%至15.8亿元"
-        },
-        {
-          "name": "中伟新材",
-          "change_pct": 1.8,
-          "volume": 25,
-          "headline": ""
-        },
-        {
-          "name": "格林美",
-          "change_pct": 0.2,
-          "volume": 133,
-          "headline": "格林美2025年归母净利润同比增长54.87%至15.8亿元"
-        }
-      ]
+      "stocks": []
     },
     {
       "rank": 43,
-      "name": "网络安全",
-      "category": "科技概念",
-      "heat_score": 29,
+      "name": "免税",
+      "category": "大消费",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
       "credibility": "高",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "密码"
+        "免税",
+        "离岛免税"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "天融信",
-          "change_pct": 0.9,
-          "volume": 32,
-          "headline": "首席记者谈首季经济丨“大码头”的经济密码"
-        },
-        {
-          "name": "奇安信-U",
-          "change_pct": -1.2,
-          "volume": 401,
-          "headline": ""
-        },
-        {
-          "name": "绿盟科技",
-          "change_pct": -1.6,
-          "volume": 22,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 44,
-      "name": "铜",
-      "category": "周期资源",
-      "heat_score": 29,
+      "name": "商贸零售",
+      "category": "一级行业",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "铜",
-        "铜价"
+        "阿里",
+        "京东"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "紫金矿业",
-          "change_pct": 2.4,
-          "volume": 312,
-          "headline": "高盛维持2026年铜价与供应过剩预测"
-        },
-        {
-          "name": "西部矿业",
-          "change_pct": -0.3,
-          "volume": 42,
-          "headline": ""
-        },
-        {
-          "name": "江西铜业",
-          "change_pct": -0.9,
-          "volume": 30,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 45,
-      "name": "社会服务",
-      "category": "一级行业",
-      "heat_score": 29,
+      "name": "中特估",
+      "category": "其他概念",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
       "credibility": "高",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "教育",
-        "出境游",
-        "旅游"
+        "央企",
+        "中国移动"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "北京文化",
-          "change_pct": 10.1,
-          "volume": 3293,
-          "headline": "教育部：严格高考试题试卷全流程管理"
-        },
-        {
-          "name": "西藏旅游",
-          "change_pct": 3.5,
-          "volume": 3874,
-          "headline": ""
-        },
-        {
-          "name": "国旅联合",
-          "change_pct": 1.9,
-          "volume": 1839,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 46,
-      "name": "电力设备",
-      "category": "一级行业",
-      "heat_score": 29,
+      "name": "并购重组",
+      "category": "其他概念",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "电网",
-        "变压器"
+        "并购",
+        "收购"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "*ST聆达",
-          "change_pct": 5.2,
-          "volume": 1160,
-          "headline": "天威视讯：广电网络拟1176万元收购长泰传媒49%股权"
-        },
-        {
-          "name": "*ST惠程",
-          "change_pct": 4.3,
-          "volume": 1958,
-          "headline": ""
-        },
-        {
-          "name": "九洲集团",
-          "change_pct": 3.2,
-          "volume": 7897,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 47,
-      "name": "低空经济",
-      "category": "科技概念",
-      "heat_score": 29,
+      "name": "次新股",
+      "category": "其他概念",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
       "credibility": "高",
       "sentiment": "中性",
       "sentiment_score": 0.5,
-      "sources": 2,
+      "sources": 1,
       "keywords": [
-        "低空经济"
+        "破发",
+        "上市"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "山河智能",
-          "change_pct": -0.4,
-          "volume": 12,
-          "headline": "低空经济融入城市发展 从“飞起来”到“用起来”"
-        },
-        {
-          "name": "中信海直",
-          "change_pct": -0.7,
-          "volume": 8,
-          "headline": ""
-        },
-        {
-          "name": "万丰奥威",
-          "change_pct": -1.1,
-          "volume": 22,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 48,
-      "name": "高股息",
-      "category": "其他概念",
-      "heat_score": 27,
+      "name": "传媒",
+      "category": "一级行业",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
       "sources": 1,
       "keywords": [
-        "红利"
+        "腾讯",
+        "游戏"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "工商银行",
-          "change_pct": 0.7,
-          "volume": 249,
-          "headline": "映翰通拟每10股派发现金红利1.1元"
-        },
-        {
-          "name": "贵州茅台",
-          "change_pct": 0.1,
-          "volume": 2,
-          "headline": ""
-        },
-        {
-          "name": "招商银行",
-          "change_pct": 0,
-          "volume": 55,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 49,
-      "name": "中特估",
-      "category": "其他概念",
-      "heat_score": 27,
+      "name": "地产",
+      "category": "金融地产",
+      "heat_score": 1.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 0,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "中性",
       "sentiment_score": 0.5,
       "sources": 1,
       "keywords": [
-        "估值"
+        "地产",
+        "房贷"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "中国移动",
-          "change_pct": 3.6,
-          "volume": 23,
-          "headline": "Revolut目标估值2000亿美元，IPO计划初具雏形"
-        },
-        {
-          "name": "中国电信",
-          "change_pct": 2.7,
-          "volume": 182,
-          "headline": ""
-        },
-        {
-          "name": "中国神华",
-          "change_pct": 1.7,
-          "volume": 29,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 50,
-      "name": "一体化压铸",
-      "category": "汽车产业链",
-      "heat_score": 17,
+      "name": "ST摘帽",
+      "category": "其他概念",
+      "heat_score": 0.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
-      "bad_news": 2,
+      "bad_news": 1,
       "credibility": "高",
       "sentiment": "利空",
-      "sentiment_score": 0,
+      "sentiment_score": 0.3,
       "sources": 1,
       "keywords": [
-        "特斯拉"
+        "ST",
+        "退市"
       ],
-      "news_count": 2,
-      "stocks": [
-        {
-          "name": "旭升集团",
-          "change_pct": 1.9,
-          "volume": 43,
-          "headline": "行业机构称：特斯拉在加州注册量大幅下滑"
-        },
-        {
-          "name": "爱柯迪",
-          "change_pct": 0.1,
-          "volume": 10,
-          "headline": ""
-        },
-        {
-          "name": "广东鸿图",
-          "change_pct": -0.8,
-          "volume": 6,
-          "headline": ""
-        }
-      ]
+      "news_count": 1,
+      "stocks": []
     },
     {
       "rank": 51,
-      "name": "固态电池",
-      "category": "新能源产业链",
-      "heat_score": 17,
+      "name": "社会服务",
+      "category": "一级行业",
+      "heat_score": 0.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
+      "bad_news": 1,
+      "credibility": "中",
+      "sentiment": "利空",
+      "sentiment_score": 0.3,
       "sources": 1,
       "keywords": [
-        "凝聚态电池"
+        "出境游",
+        "旅游"
       ],
       "news_count": 1,
-      "stocks": [
-        {
-          "name": "天赐材料",
-          "change_pct": 6.3,
-          "volume": 159,
-          "headline": "宁德时代高焕：麒麟凝聚态电池彻底解决安全问题"
-        },
-        {
-          "name": "当升科技",
-          "change_pct": 1.9,
-          "volume": 25,
-          "headline": ""
-        },
-        {
-          "name": "容百科技",
-          "change_pct": 1.9,
-          "volume": 2736,
-          "headline": ""
-        }
-      ]
+      "stocks": []
     },
     {
       "rank": 52,
-      "name": "AI芯片",
-      "category": "科技概念",
-      "heat_score": 17,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "sources": 1,
-      "keywords": [
-        "寒武纪"
-      ],
-      "news_count": 1,
-      "stocks": [
-        {
-          "name": "澜起科技",
-          "change_pct": 2.4,
-          "volume": 4522,
-          "headline": "直击业绩会丨寒武纪2025年年度业绩说明会"
-        },
-        {
-          "name": "景嘉微",
-          "change_pct": -1.5,
-          "volume": 6,
-          "headline": ""
-        },
-        {
-          "name": "龙芯中科",
-          "change_pct": -2.9,
-          "volume": 595,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "name": "数据中心",
-      "category": "科技概念",
-      "heat_score": 17,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 0,
-      "credibility": "高",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "sources": 1,
-      "keywords": [
-        "数据中心"
-      ],
-      "news_count": 1,
-      "stocks": [
-        {
-          "name": "奥飞数据",
-          "change_pct": -2.2,
-          "volume": 70,
-          "headline": "中国芯片，DeepSeek与Kimi的隐秘交点"
-        },
-        {
-          "name": "宝信软件",
-          "change_pct": -2.2,
-          "volume": 20,
-          "headline": ""
-        },
-        {
-          "name": "浪潮信息",
-          "change_pct": -2.4,
-          "volume": 107,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "name": "煤炭",
+      "name": "美容护理",
       "category": "一级行业",
-      "heat_score": 12,
+      "heat_score": 0.5,
       "heat_level": "📊 低景气",
       "good_news": 0,
       "bad_news": 1,
-      "credibility": "高",
+      "credibility": "中",
       "sentiment": "利空",
-      "sentiment_score": 0,
+      "sentiment_score": 0.3,
       "sources": 1,
       "keywords": [
-        "煤炭"
+        "美妆",
+        "珀莱雅"
       ],
       "news_count": 1,
-      "stocks": [
-        {
-          "name": "甘肃能化",
-          "change_pct": 9.1,
-          "volume": 25318,
-          "headline": "ETF日报：地缘冲突风险有所缓和，煤炭板块经历了较为充分的回调，关注煤炭ETF"
-        },
-        {
-          "name": "*ST春天",
-          "change_pct": 5.1,
-          "volume": 1431,
-          "headline": ""
-        },
-        {
-          "name": "华阳股份",
-          "change_pct": 4.7,
-          "volume": 8453,
-          "headline": ""
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "name": "充电桩",
-      "category": "新能源产业链",
-      "heat_score": 12,
-      "heat_level": "📊 低景气",
-      "good_news": 0,
-      "bad_news": 1,
-      "credibility": "高",
-      "sentiment": "利空",
-      "sentiment_score": 0,
-      "sources": 1,
-      "keywords": [
-        "通合科技"
-      ],
-      "news_count": 1,
-      "stocks": [
-        {
-          "name": "杉杉股份",
-          "change_pct": 2.4,
-          "volume": 128,
-          "headline": "通合科技：股东任献伟拟减持不超过1%"
-        },
-        {
-          "name": "阳光电源",
-          "change_pct": 0.8,
-          "volume": 52,
-          "headline": ""
-        },
-        {
-          "name": "特锐德",
-          "change_pct": -0.7,
-          "volume": 22,
-          "headline": ""
-        }
-      ]
+      "stocks": []
     }
   ],
   "recommendations": [
     {
-      "stock_name": "南京银行",
-      "sector": "非银金融",
-      "category": "一级行业",
-      "recommend_level": "强力推荐",
-      "composite_score": 7.78,
-      "buy_range_low": 16.09,
-      "buy_range_high": 16.75,
-      "target_price": 17.73,
-      "stop_loss": 15.6,
-      "current_price": 16.42,
+      "stock_name": "海光信息",
+      "sector": "人工智能",
+      "category": "科技概念",
+      "recommend_level": "推荐",
+      "composite_score": 7.9,
+      "buy_range_low": 255.49799999999996,
+      "buy_range_high": 268.668,
+      "target_price": 295.008,
+      "stop_loss": 242.328,
+      "current_price": 263.4,
       "factors": {
-        "heat": 6.26,
-        "change": 8.03,
-        "sentiment": 5.2,
-        "news": 13.89,
-        "volume": 2.49,
-        "credibility": 10
+        "heat": 10,
+        "change": 1.62,
+        "sentiment": 6,
+        "news": 32,
+        "volume": 96.15,
+        "credibility": 5.8999999999999995
       }
     },
     {
-      "stock_name": "皇庭国际",
-      "sector": "房地产",
-      "category": "一级行业",
+      "stock_name": "科大讯飞",
+      "sector": "人工智能",
+      "category": "科技概念",
       "recommend_level": "推荐",
-      "composite_score": 7.13,
-      "buy_range_low": 21.88,
-      "buy_range_high": 22.79,
-      "target_price": 24.36,
-      "stop_loss": 21.22,
-      "current_price": 22.56,
+      "composite_score": 7.2,
+      "buy_range_low": 47.4233,
+      "buy_range_high": 49.8678,
+      "target_price": 54.756800000000005,
+      "stop_loss": 44.9788,
+      "current_price": 48.89,
       "factors": {
-        "heat": 0.35,
-        "change": 10,
-        "sentiment": 6.7,
-        "news": 15,
-        "volume": 2.84,
-        "credibility": 10
+        "heat": 10,
+        "change": 1.25,
+        "sentiment": 6,
+        "news": 32,
+        "volume": 18.96,
+        "credibility": 5.8999999999999995
       }
     },
     {
-      "stock_name": "巨力索具",
-      "sector": "机械设备",
-      "category": "一级行业",
+      "stock_name": "寒武纪",
+      "sector": "人工智能",
+      "category": "科技概念",
       "recommend_level": "推荐",
-      "composite_score": 7.07,
-      "buy_range_low": 20.68,
-      "buy_range_high": 21.53,
-      "target_price": 23.03,
-      "stop_loss": 20.06,
-      "current_price": 21.32,
+      "composite_score": 7.2,
+      "buy_range_low": 1283.31,
+      "buy_range_high": 1349.46,
+      "target_price": 1481.7600000000002,
+      "stop_loss": 1217.16,
+      "current_price": 1323,
       "factors": {
-        "heat": 0.44,
-        "change": 10,
-        "sentiment": 6.1,
-        "news": 15,
-        "volume": 2.97,
-        "credibility": 10
+        "heat": 10,
+        "change": 1.05,
+        "sentiment": 6,
+        "news": 32,
+        "volume": 102.58,
+        "credibility": 5.8999999999999995
       }
     },
     {
-      "stock_name": "文投控股",
-      "sector": "汽车",
-      "category": "一级行业",
+      "stock_name": "三六零",
+      "sector": "人工智能",
+      "category": "科技概念",
       "recommend_level": "推荐",
-      "composite_score": 7.05,
-      "buy_range_low": 12.77,
-      "buy_range_high": 13.29,
-      "target_price": 14.21,
-      "stop_loss": 12.39,
-      "current_price": 13.16,
+      "composite_score": 7.2,
+      "buy_range_low": 10.6409,
+      "buy_range_high": 11.189400000000001,
+      "target_price": 12.286400000000002,
+      "stop_loss": 10.092400000000001,
+      "current_price": 10.97,
       "factors": {
-        "heat": 0.72,
-        "change": 10,
-        "sentiment": 5.6,
-        "news": 15,
-        "volume": 2.78,
-        "credibility": 10
+        "heat": 10,
+        "change": 1.08,
+        "sentiment": 6,
+        "news": 32,
+        "volume": 8.98,
+        "credibility": 5.8999999999999995
       }
     },
     {
-      "stock_name": "广农糖业",
-      "sector": "食品饮料",
-      "category": "一级行业",
+      "stock_name": "昆仑万维",
+      "sector": "人工智能",
+      "category": "科技概念",
       "recommend_level": "推荐",
-      "composite_score": 7.05,
-      "buy_range_low": 23.96,
-      "buy_range_high": 24.95,
-      "target_price": 26.68,
-      "stop_loss": 23.24,
-      "current_price": 24.7,
+      "composite_score": 6.9,
+      "buy_range_low": 50.7892,
+      "buy_range_high": 53.4072,
+      "target_price": 58.64320000000001,
+      "stop_loss": 48.1712,
+      "current_price": 52.36,
       "factors": {
-        "heat": 0.26,
-        "change": 9.35,
-        "sentiment": 7.5,
-        "news": 15,
-        "volume": 2.34,
-        "credibility": 10
+        "heat": 10,
+        "change": 2.37,
+        "sentiment": 6,
+        "news": 32,
+        "volume": 27.73,
+        "credibility": 5.8999999999999995
       }
     },
     {
-      "stock_name": "均胜电子",
-      "sector": "汽车",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 7.04,
-      "buy_range_low": 10.9,
-      "buy_range_high": 11.35,
-      "target_price": 12.14,
-      "stop_loss": 10.57,
-      "current_price": 11.24,
+      "stock_name": "招商证券",
+      "sector": "券商",
+      "category": "金融地产",
+      "recommend_level": "观望",
+      "composite_score": 4.3,
+      "buy_range_low": 14.9962,
+      "buy_range_high": 15.769200000000001,
+      "target_price": 17.315200000000004,
+      "stop_loss": 14.223200000000002,
+      "current_price": 15.46,
       "factors": {
-        "heat": 0.72,
-        "change": 10,
-        "sentiment": 5.6,
-        "news": 15,
-        "volume": 2.68,
-        "credibility": 10
+        "heat": 3.5,
+        "change": 0.06,
+        "sentiment": 5.300000000000001,
+        "news": 4,
+        "volume": 6.12,
+        "credibility": 5.5
       }
     },
     {
-      "stock_name": "三佳科技",
-      "sector": "机械设备",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 7.01,
-      "buy_range_low": 15.27,
-      "buy_range_high": 15.9,
-      "target_price": 17,
-      "stop_loss": 14.81,
-      "current_price": 15.74,
+      "stock_name": "中信证券",
+      "sector": "券商",
+      "category": "金融地产",
+      "recommend_level": "观望",
+      "composite_score": 4,
+      "buy_range_low": 25.6856,
+      "buy_range_high": 27.009600000000002,
+      "target_price": 29.657600000000002,
+      "stop_loss": 24.361600000000003,
+      "current_price": 26.48,
       "factors": {
-        "heat": 0.44,
-        "change": 10,
-        "sentiment": 6.1,
-        "news": 15,
-        "volume": 2.31,
-        "credibility": 10
+        "heat": 3.5,
+        "change": 0.86,
+        "sentiment": 5.300000000000001,
+        "news": 4,
+        "volume": 31.99,
+        "credibility": 5.5
       }
     },
     {
-      "stock_name": "科林退",
-      "sector": "机械设备",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 7,
-      "buy_range_low": 19.17,
-      "buy_range_high": 19.96,
-      "target_price": 21.34,
-      "stop_loss": 18.59,
-      "current_price": 19.76,
+      "stock_name": "兴业证券",
+      "sector": "券商",
+      "category": "金融地产",
+      "recommend_level": "观望",
+      "composite_score": 4,
+      "buy_range_low": 5.7424,
+      "buy_range_high": 6.0384,
+      "target_price": 6.630400000000001,
+      "stop_loss": 5.446400000000001,
+      "current_price": 5.92,
       "factors": {
-        "heat": 0.44,
-        "change": 10,
-        "sentiment": 6.1,
-        "news": 15,
-        "volume": 2.23,
-        "credibility": 10
+        "heat": 3.5,
+        "change": 1,
+        "sentiment": 5.300000000000001,
+        "news": 4,
+        "volume": 3.32,
+        "credibility": 5.5
       }
     },
     {
-      "stock_name": "神剑股份",
-      "sector": "基础化工",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 7,
-      "buy_range_low": 15.38,
-      "buy_range_high": 16.02,
-      "target_price": 17.13,
-      "stop_loss": 14.92,
-      "current_price": 15.86,
+      "stock_name": "华泰证券",
+      "sector": "券商",
+      "category": "金融地产",
+      "recommend_level": "回避",
+      "composite_score": 3.9,
+      "buy_range_low": 18.507599999999996,
+      "buy_range_high": 19.461599999999997,
+      "target_price": 21.3696,
+      "stop_loss": 17.5536,
+      "current_price": 19.08,
       "factors": {
-        "heat": 0.29,
-        "change": 10,
-        "sentiment": 5.8,
-        "news": 15,
-        "volume": 3.04,
-        "credibility": 10
+        "heat": 3.5,
+        "change": 1.55,
+        "sentiment": 5.300000000000001,
+        "news": 4,
+        "volume": 13.86,
+        "credibility": 5.5
       }
     },
     {
-      "stock_name": "贵研铂业",
-      "sector": "镍钴",
-      "category": "周期资源",
-      "recommend_level": "推荐",
-      "composite_score": 6.99,
-      "buy_range_low": 18.01,
-      "buy_range_high": 18.75,
-      "target_price": 19.85,
-      "stop_loss": 17.46,
-      "current_price": 18.38,
+      "stock_name": "东方财富",
+      "sector": "券商",
+      "category": "金融地产",
+      "recommend_level": "回避",
+      "composite_score": 3.9,
+      "buy_range_low": 19.2933,
+      "buy_range_high": 20.2878,
+      "target_price": 22.2768,
+      "stop_loss": 18.2988,
+      "current_price": 19.89,
       "factors": {
-        "heat": 0.11,
-        "change": 8.09,
-        "sentiment": 10,
-        "news": 15,
-        "volume": 0.99,
-        "credibility": 10
-      }
-    },
-    {
-      "stock_name": "宁波高发",
-      "sector": "汽车",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 6.98,
-      "buy_range_low": 12.34,
-      "buy_range_high": 12.85,
-      "target_price": 13.74,
-      "stop_loss": 11.97,
-      "current_price": 12.72,
-      "factors": {
-        "heat": 0.72,
-        "change": 10,
-        "sentiment": 5.6,
-        "news": 15,
-        "volume": 2.11,
-        "credibility": 10
-      }
-    },
-    {
-      "stock_name": "九鼎新材",
-      "sector": "基础化工",
-      "category": "一级行业",
-      "recommend_level": "推荐",
-      "composite_score": 6.96,
-      "buy_range_low": 18.22,
-      "buy_range_high": 18.97,
-      "target_price": 20.28,
-      "stop_loss": 17.67,
-      "current_price": 18.78,
-      "factors": {
-        "heat": 0.29,
-        "change": 10,
-        "sentiment": 5.8,
-        "news": 15,
-        "volume": 2.65,
-        "credibility": 10
+        "heat": 3.5,
+        "change": 1.44,
+        "sentiment": 5.300000000000001,
+        "news": 4,
+        "volume": 46.71,
+        "credibility": 5.5
       }
     }
   ],
   "summary": {
-    "total_sectors": 55,
-    "total_stocks": 141,
-    "strong_buy_count": 1,
-    "buy_count": 11,
-    "watch_count": 0,
-    "hold_count": 0,
-    "positive_sentiment": 26,
-    "negative_sentiment": 8,
-    "neutral_sentiment": 21
+    "total_sectors": 52,
+    "total_stocks": 10,
+    "strong_buy_count": 0,
+    "buy_count": 5,
+    "watch_count": 3,
+    "hold_count": 2,
+    "positive_sentiment": 18,
+    "negative_sentiment": 3,
+    "neutral_sentiment": 31
   }
 }
